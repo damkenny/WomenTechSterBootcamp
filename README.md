@@ -1,1 +1,1 @@
-https://adeniye-kehinde-portfolio.netlify.app/html
+https://adeniye-kehinde-portfolio.netlify.app/
